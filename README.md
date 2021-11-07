@@ -1,4 +1,4 @@
-# Lucy-Li4
+# Predict CTR with XGBoost and LightGBM
 
 My undergraduate thesis: Predicting CTR about recommended ads with XGBoost and LightGBM
 
